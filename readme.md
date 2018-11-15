@@ -1,0 +1,1 @@
+This is readme file, testing testing git remote and terminal :)
